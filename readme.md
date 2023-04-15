@@ -1,4 +1,4 @@
-[![Alexis Github Banner](./assets/banner.png)](https://alexisdev.vercel.app/)
+[![Alexis Github Banner](./assets/newbanner.png)](https://alexisdev.vercel.app/)
 
 ## Hey there
 
