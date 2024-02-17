@@ -2,7 +2,7 @@
 
 ## Hey there
 
-I'm Alexis, a **frontend developer** who's passionate about creating **beautiful and intuitive experiences** for users.
+I'm Alexis, a **Fullstack Developer** with **1 year of experience**, from Tamaulipas, Mexico. Committed about creating **user experiences** and **web applications**. Dedicated to delivering **exceptional results** and maintaining meticulous **attention to detail** in all my work.
 
 Want to know more about me? **[Check out my portfolio.](https://alexisdev.vercel.app/)**
 
