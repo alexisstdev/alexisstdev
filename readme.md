@@ -2,7 +2,7 @@
 
 ## Hey there
 
-I'm Alexis, a **Fullstack Developer** with **1 year of experience**, from Tamaulipas, Mexico. Committed about creating **user experiences** and **web applications**. Dedicated to delivering **exceptional results** and maintaining meticulous **attention to detail** in all my work.
+I'm Alexis, a **Fullstack Developer** with **+2 years of experience**, from Tamaulipas, Mexico. Committed about creating **user experiences** and **web applications**. Dedicated to delivering **exceptional results** and maintaining meticulous **attention to detail** in all my work.
 
 Want to know more about me? **[Check out my portfolio.](https://alexisdev.vercel.app/)**
 
