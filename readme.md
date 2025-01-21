@@ -7,6 +7,8 @@ I'm Alexis, a **Fullstack Developer** with **+2 years of experience**, from Tama
 Want to know more about me? **[Check out my portfolio.](https://alexisdev.vercel.app/)**
 ## 💼 Skills
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
 <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4c566a" alt="JavaScript" height="27" />
 <img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4c566a" alt="TypeScript" height="27" />
 <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4c566a" alt="Python" height="27" />
@@ -30,6 +32,8 @@ Want to know more about me? **[Check out my portfolio.](https://alexisdev.vercel
 <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=4c566a" alt="AWS" height="27" />
 <img src="https://img.shields.io/badge/Cloudflare_R2-informational?style=flat&logo=cloudflare&logoColor=white&color=4c566a" alt="Cloudflare R2" height="27" />
 <img src="https://img.shields.io/badge/Sentry-informational?style=flat&logo=sentry&logoColor=white&color=4c566a" alt="Sentry" height="27" />
+
+</div>
 
 ## 📞 Contact
 
