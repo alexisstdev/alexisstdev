@@ -7,7 +7,7 @@ I'm Alexis, a **Fullstack Developer** with **+2 years of experience**, from Tama
 Want to know more about me? **[Check out my portfolio.](https://alexisdev.vercel.app/)**
 ## 💼 Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
 <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4c566a" alt="JavaScript" height="27" />
 <img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4c566a" alt="TypeScript" height="27" />
