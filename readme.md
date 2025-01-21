@@ -40,4 +40,4 @@ Want to know more about me? **[Check out my portfolio.](https://alexisdev.vercel
 
 Feel free to contact me any time. I will get back to you as soon as I can!
 
-- **Email**: alexissanmiguel03@gmail.com
+- **Email**: alexis@sanmiguel.dev
