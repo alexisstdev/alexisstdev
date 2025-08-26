@@ -2,7 +2,7 @@
 
 ## Hey there
 
-**Fullstack Developer** with **2.5+ years of experience** building **B2B and SaaS applications** for customs, logistics, and operations. Specialized in **scalable architectures** (multi-tenant, RBAC, CI/CD) with hands-on expertise in **web applications** and **cloud integrations**. Proven track record delivering **enterprise-grade solutions** that improve efficiency and automate complex workflows.
+I'm Alexis Sanmiguel, a **Fullstack Developer** with **2.5+ years of experience** building **B2B and SaaS applications** for customs, logistics, and operations. Specialized in **scalable architectures** (multi-tenant, RBAC, CI/CD) with hands-on expertise in **web applications** and **cloud integrations**. Proven track record delivering **enterprise-grade solutions** that improve efficiency and automate complex workflows.
 
 Want to know more about me? **[Check out my portfolio.](https://alexisdev.vercel.app/)**
 ## 💼 Skills
