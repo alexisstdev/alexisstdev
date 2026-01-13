@@ -5,7 +5,7 @@
 I'm Alexis Sanmiguel, a **Software Engineer** with **3+ years of experience** building **B2B and SaaS applications** for customs, logistics, and operations. Specialized in **scalable architectures** (multi-tenant, RBAC, CI/CD) with hands-on expertise in **web applications** and **cloud integrations**. Proven track record delivering **enterprise-grade solutions** that improve efficiency and automate complex workflows.
 
 Want to know more about me? **[Check out my portfolio.](https://sanmiguel.dev)**
-## 💼 Skills
+## Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
@@ -35,7 +35,7 @@ Want to know more about me? **[Check out my portfolio.](https://sanmiguel.dev)**
 
 </div>
 
-## 📞 Contact
+## Contact
 
 Feel free to contact me any time. I will get back to you as soon as I can!
 
